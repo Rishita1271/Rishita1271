@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rishita1271
-- 👀 I’m interested in Web Development, ML and AI.
-- 🌱 I recently completed my WebD course and now want to dig the ML and AI world.
-- 💞️ I’m looking to collaborate on WebD projects for now.
+- 👀 I’m interested in Web Development, DS, ML and AI.
+- 🌱 I also did many projects and an internship as a data scienctist.
 - 📫 How to reach me...mail me at rishitagoel13@gmail.com
 
 <!---
